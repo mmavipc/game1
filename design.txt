@@ -1,0 +1,11 @@
+Post-apocalyptic
+Zombie/Police
+Periods of scouting/winning and periods of foritification/survival
+Solo/co-op
+if co-op game ends when all players in beginning state are dead
+in co-op dead players can respawn as zombies or police, they must first wait 5 rounds
+if co-op if a player is willing to wait 30 rounds, and the others can survive that long, they can respawn as a player
+respawns happen in the middle of the survival/fortification stage
+Soemthing suspicious is happening.
+Tunnels lead to magical bow, which can break speical locks leading to next area in  the story
+In trashy town area, hidden door that reveals laboratory, people typing frantically
